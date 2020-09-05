@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: #001f3f;
+    color: #7fdbff;
+    font-size: 150%;
+}
+.output {
+    border: 1px solid white;
+    margin: 20px;
+    display: none;
+}
