@@ -4,8 +4,33 @@ body {
     color: #7fdbff;
     font-size: 150%;
 }
+
 .output {
     border: 1px solid white;
     margin: 20px;
     display: none;
+}
+
+#cycle-1 {
+    color: rgb(168, 39, 254);
+}
+
+#cycle-2 {
+    color: rgb(154, 3, 254);
+}
+
+#cycle-3 {
+    color: rgb(150, 105, 254);
+}
+
+#cycle-4 {
+    color: rgb(140, 140, 255);
+}
+
+#cycle-5 {
+    color: rgb(187, 187, 255);
+}
+
+#cycle-6 {
+    color: rgb(143, 254, 221);
 }
