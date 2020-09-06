@@ -34,3 +34,10 @@ body {
 #cycle-6 {
     color: rgb(143, 254, 221);
 }
+
+button {
+  padding: 20px;
+  border-radius: 20px;
+  text-transform: capitalize;
+  color: #001f3f;
+}
